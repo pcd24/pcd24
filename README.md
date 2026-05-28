@@ -4,8 +4,8 @@
   CS Undergrad @ VIT Chennai &nbsp;·&nbsp; AI & Robotics &nbsp;·&nbsp; CGPA 8.76
   <br/>
   <a href="mailto:cperur21@gmail.com">📧 Gmail</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/YOUR_HANDLE">💼 LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://leetcode.com/u/Charu">🧩 LeetCode</a>
+  <a href="www.linkedin.com/in/charu-datta-p-4520b9293">💼 LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://leetcode.com/u/Charu___">🧩 LeetCode</a>
 </p>
 
 ---
