@@ -1,57 +1,63 @@
-<h1 align="center">Charu Datta Perur</h1>
+<h1 align="center">Hey, I'm Charu 👋</h1>
 
 <p align="center">
   CS Undergrad @ VIT Chennai &nbsp;·&nbsp; AI & Robotics &nbsp;·&nbsp; CGPA 8.76
   <br/>
-  <a href="mailto:cperur21@gmail.com">cperur21@gmail.com</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/YOUR_HANDLE">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://leetcode.com/u/Charu">LeetCode</a>
+  <a href="mailto:cperur21@gmail.com">📧 Gmail</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/YOUR_HANDLE">💼 LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://leetcode.com/u/Charu">🧩 LeetCode</a>
 </p>
 
 ---
 
-### Skills
-| | |
-|---|---|
-| **Languages** | Java · C · C++ · Python · JavaScript |
-| **Web / Mobile** | React.js · Next.js · Node.js · React Native · GSAP |
-| **Databases** | MongoDB · MySQL |
-| **Tools** | Git · Arduino IDE · UiPath |
+## 🛠️ Skills
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### Experience
+## 🚀 Projects
 
-**Research Intern — CADS, VIT Chennai** `May – Oct 2025`
-- Co-authored **CRISP**, a prompt-routing system that reduced inference costs by ~35% by scoring request creativity and routing to the cheapest viable model
-- Built a 500-sample dataset; benchmarked GAN, Transformer & Diffusion architectures with CLIP Score
+#### 🔐 Smart RFID Access Control with Face Capture
+> Auth split across 3 MCUs (Arduino Uno + 8051 + ESP32-CAM). Intruder photos captured and served over self-hosted Wi-Fi on every breach.
 
-**App Development Intern — Integra Global Solutions** `May – Jul 2025`
-- Led UI development for a cross-platform mobile app; improved user flow and load performance
+`Arduino` `8051` `ESP32-CAM` `MFRC522` `UART`
 
 ---
 
-### Projects
+#### 🚗 Bluetooth RC Car with Obstacle Avoidance
+> 2WD robot with phone BT steering, 6 PWM speed levels, 2-threshold proximity braking, and a dead-man timer on disconnect.
 
-**🔐 Smart RFID Access Control** `Arduino Uno · 8051 · ESP32-CAM · MFRC522`
-> Auth logic split across 3 MCUs over UART. ESP32-CAM captures intruder frames on intrusion and serves them over self-hosted Wi-Fi.
-
-**🚗 Bluetooth RC Car with Obstacle Avoidance** `Arduino · HC-05 · L298N · HC-SR04`
-> 6 PWM speed levels, phone-based BT steering, 2-threshold proximity braking (30 cm slow, 20 cm stop), dead-man timer.
-
-**🦾 Gesture-Based Pick & Place Robot** `Arduino · SG90 Servos · Joystick`
-> Multi-joint arm driven by joystick analog readings in real time — built for sterile/hazardous medical use.
-
-**📦 AutoNova Inventory Alert System** `UiPath · HTML/CSS/JS · jsPDF`
-> Bot polls stock every 15s, fires supplier emails, sends WhatsApp alerts, and auto-generates PDF purchase orders. Browser-only ensemble forecaster (EMA + trend + velocity) for 7-day demand prediction.
-
-**🌾 Weather & Crop Prediction App** `WeatherAPI · CropAPI`
-> Live weather + crop data integration giving farmers location-specific planting guidance.
+`Arduino` `HC-05` `L298N` `HC-SR04`
 
 ---
 
-### Education
+#### 🦾 Gesture-Based Pick & Place Robot
+> Joystick-driven multi-joint arm — analog X/Y readings map to servo angles in real time. Built for sterile/hazardous environments.
 
-**Vellore Institute of Technology, Chennai** — B.Tech CSE · AI & Robotics *(2023 – 2027)*
+`Arduino` `SG90 Servos` `Joystick`
 
-**Narayana Junior College** — Class XII · MPC · 970/1000 *(2023)*
+---
+
+#### 📦 AutoNova Inventory Alert System
+> UiPath bot polling stock every 15s, firing supplier emails + WhatsApp alerts. Browser-only ensemble forecaster auto-generates PDF purchase orders.
+
+`UiPath` `JavaScript` `jsPDF` `EMA Forecasting`
+
+---
+
+#### 🌾 Weather & Crop Prediction App
+> Connects live weather and crop APIs to give farmers location-specific planting guidance.
+
+`WeatherAPI` `CropAPI` `JavaScript`
