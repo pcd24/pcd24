@@ -5,7 +5,7 @@
   <br/>
   <a href="mailto:cperur21@gmail.com">📧 Gmail</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/charu-datta-p-4520b9293">💼 LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://leetcode.com/u/Charu__">🧩 LeetCode</a>
+  <a href="https://leetcode.com/u/Charu___">🧩 LeetCode</a>
 </p>
 
 ---
