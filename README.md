@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Charu 👋</h1>
 
 <p align="center">
-  CS Undergrad @ VIT Chennai &nbsp;·&nbsp; AI & Robotics &nbsp;·&nbsp; CGPA 8.76
+  CS Undergrad @ VIT Chennai &nbsp;·&nbsp; AI & Robotics &nbsp;·&nbsp; CGPA 8.82
   <br/>
   <a href="mailto:cperur21@gmail.com">📧 Gmail</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/charu-datta-p-4520b9293">💼 LinkedIn</a> &nbsp;·&nbsp;
